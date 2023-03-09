@@ -1,0 +1,12 @@
+{
+  "name": "singleBuild",
+  "type": "package",
+  "blockId": "HAzBMIO5v0weCNEIJH1sW",
+  "source": {
+    "https": "https://github.com/devthalal/singleBuild",
+    "ssh": "git@github.com:devthalal/singleBuild.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ]
+}
